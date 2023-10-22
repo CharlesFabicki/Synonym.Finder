@@ -2,6 +2,12 @@
 
 The Synonym Finder App is a simple graphical user interface (GUI) application built using Python's Tkinter library and the Natural Language Toolkit (NLTK) to find synonyms of a given word.
 
+## Screenshots
+![Synonim](https://github.com/CharlesFabicki/Synonym.Finder/assets/103677730/388fd159-ba67-49b6-bed4-10e75780270c)
+
+![programming](https://github.com/CharlesFabicki/Synonym.Finder/assets/103677730/d14c71cb-a084-4cdf-89d4-b57d02d2cef5)
+
+
 ## Installation
 
 1. Clone the repository or download the source code.
@@ -14,7 +20,7 @@ pip install nltk
 
 4. Run the app:
 ```
-`Synonym-Finder-App.py` 
+Synonym-Finder-App.py`
 ```
 ## Usage
 
