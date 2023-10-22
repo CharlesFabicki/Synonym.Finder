@@ -13,9 +13,9 @@ pip install nltk
 ```
 
 4. Run the app:
-
-`main.py` 
-
+```
+`Synonym-Finder-App.py` 
+```
 ## Usage
 
 1. Launch the Synonym Finder App.
@@ -31,10 +31,7 @@ pip install nltk
 - NLTK library
 - Tkinter library
 
-## Acknowledgments
-
-The Synonym Finder App was created by [Your Name] as a simple example application demonstrating the usage of NLTK and Tkinter libraries in Python.
 
 ## License
 
-This project is licensed under the License 
+This project is licensed under the MIT License 
