@@ -20,7 +20,7 @@ pip install nltk
 
 4. Run the app:
 ```
-Synonym-Finder-App.py`
+Synonym-Finder-App.py
 ```
 ## Usage
 
