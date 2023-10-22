@@ -20,7 +20,7 @@ class SynonymFinderApp:
         self.button = tk.Button(root, text="Find Synonyms", command=self.find_synonyms)
         self.button.pack()
 
-        self.output_text = scrolledtext.ScrolledText(root, wrap=tk.WORD, height=10, width=50)  # Adjust the height and width here
+        self.output_text = scrolledtext.ScrolledText(root, wrap=tk.WORD, height=10, width=50)
         self.output_text.pack()
 
     def find_synonyms(self):
