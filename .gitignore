@@ -41,6 +41,3 @@ config.json
 *.tmp
 *.swp
 
-# Ignore generated output files
-output.txt
-output.mp3
